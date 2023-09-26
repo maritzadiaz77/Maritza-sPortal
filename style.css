@@ -1,0 +1,24 @@
+img {
+  display: block;
+  width: 200px;
+  border-radius: 10px;
+}
+body {
+  background-image: url("foggylandscape.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  background-color: ;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: forestgreen;
+}
+nav {
+  float: left;
+  width: 97%;
+  height: 30px; /* only for demonstration, should be removed */
+  background: hotpink;
+  padding: 20px;
+}
