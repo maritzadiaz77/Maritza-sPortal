@@ -18,33 +18,30 @@ img {
   border-radius: 100px;
 }
 header {
-  padding: 15px 6% 15px 015px;
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
-  box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
-}
-header {
-  background-color: aliceblue;
-  padding: 20px;
+
   text-align: center;
   font-size: 25px;
-  color: forestgreen;
+  background-color: transparent;
 }
 
 nav {
-  float: left;
-  width: 97%;
-  height: 30px;
-  background: teal;
+  /* This first property will allow nav to take up 100% of screen. */
+  width: 100%;
+  background: rgb(84, 168, 168);
   padding: 30px;
   text-align: center;
 }
 p,
-h1,
 h2,
 h3 {
-  color: black;
+  color: white;
+}
+a:link {
+  color: antiquewhite;
+  font-style: italic;
 }
