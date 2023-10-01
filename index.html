@@ -4,17 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Maritza's Portal</title>
+    <!-- I connected my css to my html. -->
     <link rel="stylesheet" href="style.css" />
   </head>
   <header>
+    <!-- I tried to come up with a title for my site. -->
     <h1>Maritza's Portal</h1>
     <nav>
-      <a href="about">About Me</a>
-      <a href="work">Work</a>
-      <a href="contact">Contact Me</a>
+      <!-- I had to add ids to my sections so that I could make my nav section function.
+      By adding the <a href and pound key, now they're connected to my secions. -->
+      <a href="#about">About Me</a>
+      <a href="#work">Work</a>
+      <a href="#contact">Contact Me</a>
     </nav>
   </header>
-
+  <br />
   <body>
     <section class="page-section" id="about">
       <h2>About Me</h2>
@@ -39,21 +43,27 @@
         </p>
       </div>
     </section>
-
+    <br />
     <section class="page-section" id="work">
       <h2>Work</h2>
-      <div id="work-img">
-        <img src="Lerantino.jpg" alt="image" />
-      </div>
+      <!-- I was able to connect the previous assignment here by using my repo on github for it. -->
+      <h3>Horiseon Project</h3>
+      <a href="https://maritzadiaz77.github.io/marketing-tress/">
+        <img src="project.jpg" alt="image" width="400px"
+      /></a>
     </section>
-
+    <br />
     <section class="page-section" id="contact">
       <div>
         <h2>
           Contact me
           <address>
+            <!-- I made my email address actually function with the help of w3schools. -->
             <a href="mailto:maritzadiaz77@gmail.com">maritzadiaz77@gmail.com</a>
-            <a href="https://github.com/maritzadiaz77">GitHub</a>
+            <!-- I learned that I could just passte my github url below and I decided to change the color of it as well. -->
+            <a href="https://github.com/maritzadiaz77" style="color: bisque"
+              >GitHub</a
+            >
           </address>
         </h2>
       </div>

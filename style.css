@@ -2,8 +2,6 @@
   box-sizing: border-box;
 }
 body {
-  margin: 0;
-  padding: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   /* Added a background image to my website. I added no repeat so that it's a single image and added the cover property
@@ -16,32 +14,40 @@ img {
   display: block;
   width: 200px;
   border-radius: 100px;
+  margin-left: 100px;
 }
+/* Below I used some of the properties from the Lerantino profile
+and I changed it to my liking like having the header fill out my screen at the top, but I
+changed it by making it ransparent so that we can still see my background photo. */
 header {
   display: flex;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
   align-items: center;
-
   text-align: center;
   font-size: 25px;
   background-color: transparent;
 }
-
+/* Below, I wanted to still have a nav bar but I didn't want it to stick out so much so I gave it a light color. */
 nav {
   /* This first property will allow nav to take up 100% of screen. */
   width: 100%;
   background: rgb(84, 168, 168);
-  padding: 30px;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 p,
 h2,
 h3 {
-  color: white;
+  color: rgb(163, 233, 233);
+  margin-left: 100px;
 }
-a:link {
+/* I added the visited to my links beacause I didn't want them to change colors once clicked. */
+a:link,
+:visited {
   color: antiquewhite;
-  font-style: italic;
+}
+@media screen {
 }
