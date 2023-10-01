@@ -23,20 +23,19 @@ header {
   align-items: center;
   box-shadow: 0 5px 35px rgba(146, 204, 206, 0.4);
 }
-body {
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-/* */
-*/
-/* header { */ 
-/* background-color: transparent; */
-/* padding: 20px; */
-/* text-align: center; */
-/* font-size: 25px; */
-/* color: forestgreen; */
-/* background-color: aqua; */
-/* /}  */
+body { 
+
+background-repeat: no-repeat;
+background-size: cover; 
+ } 
+header { 
+background-color: transparent;
+padding: 20px;
+text-align: center;
+font-size: 25px;
+color: forestgreen;
+background-color: aqua;
+/} 
 
 nav {
   float: left;
