@@ -8,12 +8,8 @@ I created a website for this career and it contains an about me section detailin
 In order to get to my project, you will just need to click to my deployed link provided below under Usage.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+assets/screenshotimage
+![maritzadiaz77_Maritza-sPortal - Google Chrome 9_30_2023 8_55_00 PM](https://github.com/maritzadiaz77/Maritza-sPortal/assets/144579638/5088dec1-72f5-4492-892b-db77e6b58311)
 
 ## Credits
 
