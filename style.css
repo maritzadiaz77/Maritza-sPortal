@@ -12,7 +12,7 @@ body {
 }
 img {
   display: block;
-  width: 200px;
+  width: 400px;
   border-radius: 100px;
   margin-left: 100px;
 }
@@ -41,8 +41,9 @@ nav {
 p,
 h2,
 h3 {
-  color: rgb(163, 233, 233);
+  color: rgb(117, 164, 164);
   margin-left: 100px;
+ font-size:40px;
 }
 /* I added the visited to my links beacause I didn't want them to change colors once clicked. */
 a:link,
