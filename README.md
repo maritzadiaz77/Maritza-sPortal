@@ -14,6 +14,9 @@ In order to get to my project, you will just need to click to my deployed link p
 
 
 
+
+assets/Images/Maritza's Portal - Google Chrome 11_18_2023 6_38_02 PM.png 
+
 ## Credits
 
 Extensively used W3Schools Online Web Tutorials and StackOverflow which helped so much.
