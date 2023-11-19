@@ -12,6 +12,9 @@ https://maritzadiaz77.github.io/Maritza-sPortal/
 assets/screenshotimage
 ![maritzadiaz77_Maritza-sPortal - Google Chrome 9_30_2023 8_55_00 PM](https://github.com/maritzadiaz77/Maritza-sPortal/assets/144579638/5088dec1-72f5-4492-892b-db77e6b58311)
 
+
+assets/Images/Maritza's Portal - Google Chrome 11_18_2023 6_38_02 PM.png 
+
 ## Credits
 
 Extensively used W3Schools Online Web Tutorials and StackOverflow which helped so much.
