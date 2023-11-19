@@ -8,9 +8,11 @@ I created a website for this career and it contains an about me section detailin
 In order to get to my project, you will just need to click to my deployed link provided below under Usage.
 
 ## Usage
-https://maritzadiaz77.github.io/Maritza-sPortal/ 
-assets/screenshotimage
-![maritzadiaz77_Maritza-sPortal - Google Chrome 9_30_2023 8_55_00 PM](https://github.com/maritzadiaz77/Maritza-sPortal/assets/144579638/5088dec1-72f5-4492-892b-db77e6b58311)
+![readme](./assets/Images/Maritza's%20Portal%20-%20Google%20Chrome%2011_18_2023%206_38_02%20PM.png)
+![readme](./assets/Images/Maritza's%20Portal%20-%20Google%20Chrome%2011_18_2023%206_38_49%20PM.png)
+![readme](./assets/Images/Maritza's%20Portal%20-%20Google%20Chrome%2011_18_2023%206_38_58%20PM.png)
+
+
 
 ## Credits
 
